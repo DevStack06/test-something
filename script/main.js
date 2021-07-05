@@ -265,6 +265,7 @@ const animationTimeline = () => {
       },
       "+=1"
     );
+    
 
   // tl.seek("currentStep");
   // tl.timeScale(2);
